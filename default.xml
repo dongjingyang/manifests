@@ -5,7 +5,7 @@
            fetch="." />
 
   <remote  name="aosp"
-           fetch="../android" />
+           fetch="../android_aosp_71" />
   <default revision="refs/tags/android-7.1.1_r4"
            remote="aosp"
            sync-c="true"
